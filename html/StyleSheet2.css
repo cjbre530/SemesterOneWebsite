@@ -1,0 +1,30 @@
+﻿.img {
+    border: solid 3px;
+    border-color: darkgray;
+    border-width: thick;
+    border-radius: 6px;
+    
+}
+
+.img1 {
+    border: solid 3px; 
+    border-color: darkgray; 
+    float: right;
+}
+.img2 {
+    border: solid 3px;
+    border-color: darkgray;
+    border-width: thick;
+    border-radius: 6px;
+    
+}
+.ob {
+font-style: italic;
+}
+.img3 {
+    border: solid 3px;
+    border-color: darkgray;
+    border-width: thick;
+    border-radius: 6px;
+    float: left;
+}

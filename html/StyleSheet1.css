@@ -1,0 +1,44 @@
+﻿.title {
+    font-size: 60px;
+    font-family: 'Comic Sans MS';
+    border: solid 6px;
+    border-color: black;
+}
+.titt1 {
+    text-decoration: underline;
+}
+.para {
+    float: left;
+    font-family: 'Times New Roman';
+    font-size: 22px;
+    border: solid 1px;
+    border-color: black;
+    border-radius: 6px;
+    
+}
+body {
+    background-image: url('../images/bgimg1.png');
+}
+.para2 {
+    float: left;
+    font-family: 'Times New Roman';
+    font-size: 22px;
+    border: solid 1px;
+    border-color: black;
+    border-radius: 6px;
+    float: left;
+}
+.para3 {
+    font-family: 'Times New Roman';
+    font-size: 20px;
+}
+.link {
+    font-size: 12px; 
+}
+.para4 {
+    font-family: 'Times New Roman';
+    font-size: 16px;
+    text-decoration-color: darkred;
+}
+
+
